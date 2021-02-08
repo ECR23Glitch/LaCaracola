@@ -3,12 +3,7 @@ TITLE:
 CARACOLA - MARISQUERIA
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-CODESIGNED BY: ELIAS CAMACHO RAMIREZ
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+DESIGNED & DEVELOPED by ELIAS CAMACHO RAMIREZ
 
 
 CREDITS:
